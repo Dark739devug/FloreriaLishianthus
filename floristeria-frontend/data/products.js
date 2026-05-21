@@ -6,9 +6,8 @@ export const products = [
     price: 450,
     type: "lisianthus",
     occasion: "romance",
-    img: "https://images.pexels.com/photos/7462760/pexels-photo-7462760.jpeg"
+    img: "https://images.pexels.com/photos/7462760/pexels-photo-7462760.jpeg",
   },
-
   {
     id: 2,
     name: "Sol de Verano",
@@ -16,16 +15,42 @@ export const products = [
     price: 325,
     type: "girasoles",
     occasion: "cumpleaños",
-    img: "https://images.pexels.com/photos/32300948/pexels-photo-32300948.jpeg"
+    img: "https://images.pexels.com/photos/32300948/pexels-photo-32300948.jpeg",
   },
-
   {
     id: 3,
     name: "Amor Eterno",
-    desc: "Docena de rosas rojas",
+    desc: "Docena de rosas rojas en envoltorio elegante",
     price: 525,
     type: "rosas",
     occasion: "romance",
-    img: "https://images.pexels.com/photos/17352949/pexels-photo-17352949.jpeg"
-  }
+    img: "https://images.pexels.com/photos/17352949/pexels-photo-17352949.jpeg",
+  },
+  {
+    id: 4,
+    name: "Jardín Silvestre",
+    desc: "Mezcla de lisianthus, eucalipto y flores de temporada",
+    price: 380,
+    type: "lisianthus",
+    occasion: "agradecimiento",
+    img: "https://images.pexels.com/photos/34456813/pexels-photo-34456813.jpeg",
+  },
+  {
+    id: 5,
+    name: "Amanecer Dorado",
+    desc: "Ramo de girasoles con margaritas blancas",
+    price: 295,
+    type: "girasoles",
+    occasion: "cumpleaños",
+    img: "https://images.pexels.com/photos/12272311/pexels-photo-12272311.jpeg",
+  },
+  {
+    id: 6,
+    name: "Pasión Carmesí",
+    desc: "Rosas rojas y rosadas en tonos degradados",
+    price: 490,
+    type: "rosas",
+    occasion: "aniversario",
+    img: "https://images.pexels.com/photos/21619344/pexels-photo-21619344.jpeg",
+  },
 ];
